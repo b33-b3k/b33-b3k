@@ -4,13 +4,6 @@ b33-b3k/b33-b3k is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ### hey there 
-
-
-Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
--   Computer Engineering Undergrad at Kathmandu University
-- 🌱 I’m currently learning **Flutter,Dart**
-<!-- - 👀 I’m interested in ... -->
-- 📫 How to reach me: [email](mailto:beebek2004@gmail.com)
 <a href="https://www.instagram.com/b33b3k/">
   <img align="left" alt="Bibek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -26,6 +19,16 @@ Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
 
 
 <br />
+Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
+-   Computer Engineering Undergrad at Kathmandu University
+- 🌱 I’m currently learning **Flutter,Dart**
+<!-- - 👀 I’m interested in ... -->
+- 📫 How to reach me: [email](mailto:beebek2004@gmail.com)
+<a href="https://www.instagram.com/b33b3k/">
+  <img align="left" alt="Bibek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
