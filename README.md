@@ -24,9 +24,7 @@ Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
 - 🌱 I’m currently learning **Flutter,Dart**
 <!-- - 👀 I’m interested in ... -->
 - 📫 How to reach me: [email](mailto:beebek2004@gmail.com)
-<a href="https://www.instagram.com/b33b3k/">
-  <img align="left" alt="Bibek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+
 
 
 
