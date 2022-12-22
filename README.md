@@ -20,15 +20,16 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/), a Computer Engineering Undergrad, always looking for new projects to work on and exploring new technologies.
+Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
+-   Computer Engineering Undergrad at Kathmandu University
 - 🌱 I’m currently learning **Flutter,Dart**
-
+<!-- - 👀 I’m interested in ... -->
+- 📫 How to reach me: [email](mailto:beebek2004@gmail.com)
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:beebek2004@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+
 
 **languages and tools:**  
 
@@ -56,11 +57,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-📈 my github stats
-<p>
+
+
 [![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=b33-b3k)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+
 
 
 
