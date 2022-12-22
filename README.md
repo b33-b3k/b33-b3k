@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <br />
-Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/),
+Hi, i'm [Bibek Adhikari](https://bibekadhikari18.com.np/)
 -   Computer Engineering Undergrad at Kathmandu University
 - 🌱 I’m currently learning **Flutter,Dart**
 <!-- - 👀 I’m interested in ... -->
-- 📫 How to reach me: [email](mailto:beebek2004@gmail.com)
+- 📫 How to reach me: ![email](mailto:beebek2004@gmail.com)
 
 
 
