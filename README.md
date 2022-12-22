@@ -57,9 +57,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 my github stats
+<p>
 [![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=b33-b3k)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</p>
 
 
 
