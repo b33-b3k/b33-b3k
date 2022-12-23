@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Bibek Adhikai</h1>
+<h1 align="center">Hi 👋, I'm Bibek Adhikari</h1>
 <h3 align="center">Computer Engineering Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b33-b3k&label=Profile%20views&color=0e75b6&style=flat" alt="b33-b3k" /> </p>
->
 
 - 🌱 I’m currently learning **Flutter,Dart,Python**
 
@@ -11,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="left" alt="Bibek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="right" alt="Bibek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <p align="left">
 <a href="https://linkedin.com/in/kedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
