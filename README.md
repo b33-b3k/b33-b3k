@@ -10,7 +10,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<iframe src="https://giphy.com/gifs/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![giphy](https://user-images.githubusercontent.com/108108132/209275210-7bce9c83-9472-4396-a788-dab0f732eff1.gif)
+
 
 <a href="https://linkedin.com/in/kedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
 <a href="https://fb.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b33b3k" height="30" width="40" /></a>
