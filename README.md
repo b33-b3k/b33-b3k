@@ -10,8 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Bibek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
 <p align="left">
 <a href="https://linkedin.com/in/kedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
 <a href="https://fb.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b33b3k" height="30" width="40" /></a>
