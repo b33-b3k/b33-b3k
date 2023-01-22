@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-![giphy](https://user-images.githubusercontent.com/108108132/209275210-7bce9c83-9472-4396-a788-dab0f732eff1.gif)
+![](https://user-images.githubusercontent.com/108108132/209275210-7bce9c83-9472-4396-a788-dab0f732eff1.gif))
 
 
 <a href="https://linkedin.com/in/kedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
