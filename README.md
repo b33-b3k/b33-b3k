@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://media.licdn.com/dms/image/D5635AQEH0KgYWjwgJA/profile-framedphoto-shrink_800_800/0/1669737078431?e=1680840000&v=beta&t=Io2g2oMpxR_ed3E5LAzXZruDPUFFbrk90imV4bBf8ho"></p>
+\
 
 <h1 align="center">Hi 👋, I'm Bibek Adhikari</h1>
 <h3 align="center">Computer Engineering Undergrad</h3>
