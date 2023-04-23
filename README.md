@@ -29,9 +29,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/b33b3k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="b33b3k" /></a></p><br><br>
 
-[![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=b33-b3k)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!-- [![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=b33-b3k)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b33-b3k&show_icons=true&locale=en&layout=compact" alt="b33-b3k" /></p>
 
 
 
