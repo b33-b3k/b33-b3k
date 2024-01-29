@@ -18,7 +18,7 @@
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" align="right" alt="cat-coding" />
 
 
-<a href="https://linkedin.com/in/kedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
 <a href="https://fb.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b33b3k" height="30" width="40" /></a>
 <a href="https://instagram.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b33b3k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b33b3k" height="30" width="40" /></a>
