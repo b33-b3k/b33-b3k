@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Web and Mobile Developer</h3>
 
 <p align="center">
-  Check out my website: <a href="https://www.bibekadhikari18.com.np/" target="_blank">Your Website</a>
+  Check out my website: <a href="https://www.bibekadhikari18.com.np/" target="_blank">Click here</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b33-b3k&label=Profile%20views&color=0e75b6&style=flat" alt="b33-b3k" /> </p>
