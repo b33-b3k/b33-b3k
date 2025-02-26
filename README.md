@@ -1,5 +1,5 @@
 <div style="text-align: center; margin: 2em 0;">
-    <img src="https://media.licdn.com/dms/image/D5616AQFOtcwDjwDqJg/profile-displaybackgroundimage-shrink_350_1400/0/1690603648243?e=1719446400&v=beta&t=4Cd0C_Wbx6rWGxXBxErD22-rSQ2jDu8-JF0lMJownuM"
+    <img src="https://raw.githubusercontent.com/b33-b3k/b33-b3k/refs/heads/main/1690603648243%20(1).jpeg"
         alt="Bibek Adhikari">
 </div>
 
